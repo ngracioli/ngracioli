@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo ao meu GitHub 👋 !!!
 
-Meu nome é Nicolas, 18 anos, cursando BSI na FHO (Uniararas) | Fundação Hermínio Ometto, estudando desenvolvimento front-end.
+Meu nome é Nicolas, tenho 18 anos, estou cursando BSI na FHO (Uniararas) | Fundação Hermínio Ometto, estudando desenvolvimento front-end.
 
 ## Linguagens e Tecnologias:
 
