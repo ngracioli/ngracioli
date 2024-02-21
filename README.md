@@ -15,5 +15,5 @@ Meu nome é Nicolas, tenho 18 anos, estou cursando SI (Sistemas de Informação)
 <a href="https://www.instagram.com/ns.curse/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 ## Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngracioli&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ngracioli&theme=radical&hide_border=false&&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngracioli&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ngracioli&theme=dark&hide_border=false&&layout=compact)
