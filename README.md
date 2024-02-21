@@ -10,8 +10,9 @@ Meu nome é Nicolas, tenho 18 anos, estou cursando BSI na FHO (Uniararas) | Fund
 [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>]()
 
 ## Minhas redes sociais:
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ngracioli/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nicolas.gracioli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/ns.curse/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 ## Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngracioli&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngracioli&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) 
