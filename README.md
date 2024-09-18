@@ -1,6 +1,6 @@
 ## Hi there! Welcome to my GitHub👋 !!!
 
-My name is Nicolas, I am 18 years old, and I am studying Information Systems at the university FHO (Uniararas) | Fundação Hermínio Ometto in Brazil.
+My name is Nicolas, I am 18 years old, and I am studying Information Systems at the university FHO (Fundação Hermínio Ometto) in Brazil.
 
 ## Technologies:
 
