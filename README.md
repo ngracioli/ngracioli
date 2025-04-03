@@ -1,6 +1,6 @@
 ## Hi there! Welcome to my GitHub👋 !!!
 
-My name is Nicolas, I am 18 years old, and I am studying Information Systems at the university FHO (Fundação Hermínio Ometto) in Brazil.
+My name is Nicolas, I am 19 years old, and I am studying Information Systems at the university FHO (Fundação Hermínio Ometto) in Brazil.
 
 ## Technologies:
 
@@ -12,7 +12,6 @@ My name is Nicolas, I am 18 years old, and I am studying Information Systems at 
 ## Social:
 <a href="https://www.linkedin.com/in/ngracioli/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nicolas.gracioli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ns.curse/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 <details>
   <summary>Github stats</summary>
