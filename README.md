@@ -1,25 +1,38 @@
-## Hi there! Welcome to my GitHub👋 !!!
+<h1 align="center">Hi, I'm <a href="https://github.com/ngracioli">Nicolas</a>!</h1>
 
-My name is Nicolas, I am 19 years old, and I am studying Information Systems at the university FHO (Fundação Hermínio Ometto) in Brazil.
+###
 
-## Technologies:
+<h3 align="center">Welcome to my GitHub profile</h3>
 
-[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>]()
-[<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>]()
+###
 
-## Social:
-<a href="https://www.linkedin.com/in/ngracioli/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nicolas.gracioli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">I'm a software developer in training, currently pursuing a degree in Information Systems. <br>Passionate about learning new technologies and solving problems through clean, effective code.</p>
+<div align="center">
+ <strong><a href="https://www.linkedin.com/in/ngracioli/">LinkedIn</a></strong> |
+ <strong><a href="mailto:nicolas.gracioli@gmail.com">Gmail</a></strong>
+</div>
 
-<details>
-  <summary>Github stats</summary>
+<h3 align="center">Languages and Technologies</h3>
 
-  ## Statistics
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngracioli&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ngracioli&theme=dark&hide_border=false&&layout=compact)
-</details>
+###
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+</div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ngracioli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngracioli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
