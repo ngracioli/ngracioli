@@ -1,4 +1,5 @@
-<h1 align="center">Welcome, I'm <a href="https://github.com/ngracioli">Nicolas</a>!</h1>
+<img width="3750" height="938" src="https://github.com/user-attachments/assets/d2f42b2c-a8a9-45ee-a09e-365c13e7259d" />
+
 
 ###
 
