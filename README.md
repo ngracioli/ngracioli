@@ -8,14 +8,13 @@
 I'm a software developer in training, currently pursuing a degree in Information Systems.
 <br>
 Passionate about learning new technologies and solving problems through clean, effective code.
-<br><br>
+<br>
 
-**Quick facts about me:**
+#### **Quick facts about me:**
 
 - 👋 Most people call me Nick.
 - 💻 Currently working as a Software Engineer at [Yeb](https://www.yeb.com.br/).
 - 🔌 I enjoy building APIs, integrations and automations.
-- ☁️ Exploring cloud architecture and AWS.
 - 🤖 Exploring how AI agents can improve software development workflows.
 - ☕ Most bugs are solved after coffee and `console.log()`.
 
