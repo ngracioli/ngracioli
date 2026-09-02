@@ -1,42 +1,67 @@
 <img width="3750" height="938" src="https://github.com/user-attachments/assets/d2f42b2c-a8a9-45ee-a09e-365c13e7259d" />
 
+<br>
 
-###
+# Welcome to my GitHub profile!
 
-<h3 align="center">Welcome to my GitHub profile</h3>
+### :crescent_moon: &nbsp;About Me
+I'm a software developer in training, currently pursuing a degree in Information Systems.
+<br>
+Passionate about learning new technologies and solving problems through clean, effective code.
+<br><br>
 
-###
+**Quick facts about me:**
 
-<p align="center">I'm a software developer in training, currently pursuing a degree in Information Systems. <br>Passionate about learning new technologies and solving problems through clean, effective code.</p>
-<div align="center">
- <strong><a href="https://www.linkedin.com/in/ngracioli/">LinkedIn</a></strong> |
- <strong><a href="mailto:nicolas.gracioli@gmail.com">Gmail</a></strong>
-</div>
+- 👋 Most people call me Nick.
+- 💻 Currently working as a Software Engineer at [Yeb](https://www.yeb.com.br/).
+- 🔌 I enjoy building APIs, integrations and automations.
+- ☁️ Exploring cloud architecture and AWS.
+- 🤖 Exploring how AI agents can improve software development workflows.
+- ☕ Most bugs are solved after coffee and `console.log()`.
 
-<h3 align="center">Languages and Technologies</h3>
+<br>
 
-###
+<p>
+  <a href="mailto:nicolas.gracioli@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ngracioli/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
+<hr/>
+
+
+<details>
+  <summary><h3><b>:computer: &nbsp;Languages and Technologies</b></h3></summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-</div>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+ 
+<!-- 
+![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+![JSF](https://img.shields.io/badge/JSF-323330.svg?&style=flat&logo=eclipse&logoColor=white)&nbsp;
+-->
 
-###
+</details>
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngracioli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<details>
+  <summary><h3><b>:black_cat: &nbsp;GitHub Readme Stats</b></h3></summary>
+  <br>
+  
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=ngracioli&theme=dark&show_icons=true" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ngracioli&theme=dark&layout=compact" />
+  </a>
+  
+</details>
