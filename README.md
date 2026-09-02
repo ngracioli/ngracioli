@@ -13,7 +13,7 @@ Passionate about learning new technologies and solving problems through clean, e
 #### **Quick facts about me:**
 
 - 👋 Most people call me Nick.
-- 💻 Currently working as a Software Engineer at <a href="https://www.yeb.com.br/" target="_blank">Yeb</a>.
+- 💻 Currently working as a Software Engineer at [Yeb](https://yeb.com.br).
 - 🔌 I enjoy building APIs, integrations and automations.
 - 🤖 Exploring how AI agents can improve software development workflows.
 - ☕ Most bugs are solved after coffee and `console.log()`.
