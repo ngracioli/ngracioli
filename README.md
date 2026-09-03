@@ -28,9 +28,8 @@ Passionate about learning new technologies and solving problems through clean, e
 <hr/>
 
 
-<details>
-  <summary><h3><b>:computer: &nbsp;Languages and Technologies</b></h3></summary>
-  <br>
+<h3><b>▾ :computer: &nbsp;Languages and Technologies</b>
+  <br><br>
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
@@ -50,17 +49,12 @@ Passionate about learning new technologies and solving problems through clean, e
 ![JSF](https://img.shields.io/badge/JSF-323330.svg?&style=flat&logo=eclipse&logoColor=white)&nbsp;
 -->
 
-</details>
-
-<details>
-  <summary><h3><b>:black_cat: &nbsp;GitHub Readme Stats</b></h3></summary>
   <br>
-  
+
+  <h3><b>▾ :black_cat: &nbsp;GitHub Readme Stats</b></h3></summary>
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img height="165" src="https://github-stats-extended.vercel.app/api?username=ngracioli&theme=dark&show_icons=true" />
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ngracioli&theme=dark&layout=compact" />
   </a>
-  
-</details>
